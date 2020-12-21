@@ -16,5 +16,5 @@ Color coding:
 
 ![YELLOW](https://placehold.it/15/ffff00/000000?text=+) Yellow: Represents a person, group, target, or specific location in the encounter space.
 
-![RED](https://placehold.it/15/ff0000/000000?text=+)  Red: Used at my discretion, but basically "DO THIS OR GET OOKED IN THE DOOKER" mechanics.
+![RED](https://placehold.it/15/ff0000/000000?text=+)  Red: Used at my discretion, but basically "steve will kill us all" mechanics.
 
