@@ -1,18 +1,8 @@
-|cffff00ffWhole Fight|r:  
-|cffff9933SPREAD OUT|r |cff00ff00~10|r yards to avoid extra AoE damage.
-|cffff9933DODGE|r |cff00ffffVolatile Ejection|r random frontal. |cffff9933SEPARATE|r if targetted.
-|cffff9933STACK|r on |cff00ff00~2|r |cffF8FF64teammates|r on |cff00ffffGluttonous Miasma|r to be healed.
-|cffff9933RUN AWAY|r from |cffF8FF64boss|r for |cff00ffffConsume|r.
-
-{healer}|cffF8FF64Healers:|r |cffF8FF64Allies|r with |cff00ffffGluttonous Miasma|r cannot be healed.
-{tank}|cffF8FF64Tanks:|r  |cffff9933TANK SWAP|r on |cff00ffffGrowing Hunger|r, around |cff00ff005|r stacks.
-{tank}|cffff9933SOAK|r |cffF8FF64blue orbs|r on ground while not tanking.
-
 {time:0:22} {spell:329455} Desolate   Binder Shell 
 {time:0:38} {spell:329742} Expunge    Jaesy Devo + Jaesy Wings + Honey VE
 {time:0:57} {spell:329455} Desolate   Adelyn Shell
-{time:1:14} {spell:329742} Expunge    Dysthe Tide
-{time:1:30} {spell:334522} Consume   Binder Shell +  Dysthe {spell:108280}  + Binder Barrier
+{time:1:14} {spell:329742} Expunge   Dysthe {spell:108280}   
+{time:1:30} {spell:334522} Consume   Binder Shell +  Dysthe {spell:98008}  + Binder Barrier
 -----------------------------------------------
 {time:2:00} {spell:329455}   Desolate Adelyn Shell
 {time:2:11} {spell:329742}   Expunge Sione Tranq
@@ -23,11 +13,11 @@
 {time:3:32} {spell:329455} Desolate Binder Shell 
 {time:3:51} {spell:329742} Expunge  Jaesy Devo + Jaesy Wings + Honey VE
 {time:4:10} {spell:329455} Desolate  Adelyn Shell
-{time:4:25} {spell:329742} Expunge   Dysthe Tide
+{time:4:25} {spell:329742} Expunge   Dysthe {spell:108280} 
 {time:5:10} {spell:329455} Desolate  Sione Tree  
 {time:5:24} {spell:329742} Expunge  Sione Tranq
-{time:5:30}{spell:334522}  Binder Shell +  Dysthe {spell:108280}  + Binder Barrier
+{time:5:30}{spell:334522}  Consume Binder Shell +  Dysthe {spell:98008}  + Binder Barrier
 ----------------------------------------------------
 {time:6:00} {spell:329455} Desolate   Adelyn Shell
-{time:6:28}{spell:329742} Expunge   Rally + Honey VE + JAesy Wings
+{time:6:28}{spell:329742} Expunge   Rally + Honey VE + Jaesy Wings
 {time:6:55}{spell:329455} Desolate  Binder Shell + Devo
