@@ -1,3 +1,6 @@
+### Idea taken from this reddit post
+- [ERT Notes and AA for each Boss by bjanks](https://www.reddit.com/r/CompetitiveWoW/comments/k5latn/bjanks_angryassignments_ert_notes_for_each_boss/)
+
 ### Other Sources
 - [Ready Check Pull guides](https://docs.google.com/document/d/1ylS7KVabisugHwhowSBe598Tm9B3_m9NCZrdI6PRcG8/preview?pru=AAABdmd2tpc*yVCV_HeG9v-zdEwIi2Q5cw)
 - [Fatboss raid guides](https://www.youtube.com/playlist?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
