@@ -1,23 +1,27 @@
-{time:0:22} {spell:329455} Desolate   Binder Shell 
-{time:0:38} {spell:329742} Expunge    Jaesy Devo + Jaesy Wings + Honey VE
-{time:0:57} {spell:329455} Desolate   Adelyn Shell
-{time:1:14} {spell:329742} Expunge   Dysthe {spell:108280}   
-{time:1:30} {spell:334522} Consume   Binder Shell +  Dysthe {spell:98008}  + Binder Barrier
+{time:0:22}{spell:329455} Desolate-  Binder Shell 
+{time:0:28}{spell:329742} Expunge-  Jaesy AM + Jaesy Wings + Honey VE
+{time:0:57}{spell:329455} Desolate-  Adelyn Shell
+{time:1:05}{spell:329742} Expunge-  Dysthe HTT + Kvrw Rally
+{time:1:29}{spell:334522} Consume-  Binder Shell +  Dysthe APT  + Adelyn Barrier  + Lightfoot AMZ
 -----------------------------------------------
-{time:2:00} {spell:329455}   Desolate Adelyn Shell
-{time:2:11} {spell:329742}   Expunge Sione Tranq
-{time:2:32} {spell:329455}   Desolate Binder Shell
-{time:2:52} {spell:329742}   Expunge Sione Tree  
-{time:3:02} {spell:334522}   Consume Adelyn Shell + Adelyn Barrier + Fairy AMZ + Dysthe APT
+{time:1:58}{spell:329455} Desolate-  Adelyn Shell
+{time:2:08}{spell:329742} Expunge-  Sione Tranq
+{time:2:34}{spell:329455} Desolate-  Binder Shell + Jaesy Wings
+{time:2:42}{spell:329742} Expunge-  Sione Tree + Honey VE 
+{time:3:05}{spell:334522} Consume-  Adelyn Shell + Binder Barrier + Fairy AMZ + Dysthe Link + Darkness
 ----------------------------------------------
-{time:3:32} {spell:329455} Desolate Binder Shell 
-{time:3:51} {spell:329742} Expunge  Jaesy Devo + Jaesy Wings + Honey VE
-{time:4:10} {spell:329455} Desolate  Adelyn Shell
-{time:4:25} {spell:329742} Expunge   Dysthe {spell:108280} 
-{time:5:10} {spell:329455} Desolate  Sione Tree  
-{time:5:24} {spell:329742} Expunge  Sione Tranq
-{time:5:30}{spell:334522}  Consume Binder Shell +  Dysthe {spell:98008}  + Binder Barrier
+{time:3:34}{spell:329455} Desolate-  Binder Shell 
+{time:3:42}{spell:329742} Expunge-  Jaesy AM + Honey VE
+{time:4:10}{spell:329455} Desolate-  Adelyn Shell
+{time:4:20}{spell:329742} Expunge-  Dysthe HTT 
+{time:4:41}{spell:334522} Consume- Binder Shell + Adelyn Barrier  + Lightfoot AMZ
 ----------------------------------------------------
-{time:6:00} {spell:329455} Desolate   Adelyn Shell
-{time:6:28}{spell:329742} Expunge   Rally + Honey VE + Jaesy Wings
-{time:6:55}{spell:329455} Desolate  Binder Shell + Devo
+{time:5:10}{spell:329455} Desolate- Adelyn Shell + Jaesy Wings 
+{time:5:18}{spell:329742} Expunge- Sione Tranq 
+{time:5:46}{spell:329455} Desolate- Binder Shell + Rally 
+{time:5:52}{spell:329742} Expunge- Sione Tree + Honey VE
+{time:6:17}{spell:334522} Consume- Adelyn Shell +  Dysthe Link  + Binder Barrier + Fairy AMZ + Darkness
+----------------------------------------------------
+{time:6:46}{spell:329455} Desolate-  Binder Shell + Jaesy AM + Dysthe APT + Fairy AMZ
+{time:6:52}{spell:329742} Expunge- Anything else?
+{time:7:00}{spell:26662} Berserk-  Immunities yolo
